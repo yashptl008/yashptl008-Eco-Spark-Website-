@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "sample-battery-100ah",
+    "name": "Eco Spark 12V 100Ah LiFePO4",
+    "category": "LiFePO4 Batteries",
+    "short_description": "High performance lithium battery for solar and inverter applications.",
+    "full_description": "Detailed description goes here...",
+    "specs": [
+      { "label": "Voltage", "value": "12.8V" },
+      { "label": "Capacity", "value": "100Ah" }
+    ],
+    "features": ["10-year lifespan", "BMS Protection"],
+    "applications": ["Solar Setup", "RV", "Inverter"],
+    "status": "active"
+  }
+]

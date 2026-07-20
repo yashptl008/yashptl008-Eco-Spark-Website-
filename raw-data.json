@@ -1,0 +1,170 @@
+[
+  {
+    "title": "E-Rikshaw / E-Cart Battery",
+    "slug": "e-rikshaw-e-cart-battery",
+    "description": "The Arenq Series from Sunlit Power features advanced Lithium Iron Phosphate (LiFePO4) battery technology, engineered specifically for E-Carts and E-Autorickshaws. These batteries offer superior safety, longer cycle life, faster charging, and high thermal stability—making them an ideal choice for reliable and efficient electric mobility. The Arenq E-Autorickshaws and E-Cart series range also includes systems from 48V to 72V.",
+    "short_description": "Advanced LiFePO4 batteries engineered for E-Carts and E-Autorickshaws offering superior safety and longer cycle life.",
+    "status": "active",
+    "specifications": {
+      "chemistry": "LFP (Prismatic Cell)",
+      "cycle_life": "1500 - 2500",
+      "dod_level": "100%",
+      "working_temperature": "-20°C to +60°C",
+      "available_models": [
+        {"model": "ARENQLFP 48-100", "power_w": 4800, "voltage_v": 48, "capacity_ah": 100},
+        {"model": "ARENQLFP 51.2-86", "power_w": 4403.2, "voltage_v": 51.2, "capacity_ah": 86},
+        {"model": "ARENQLFP 51.2-100", "power_w": 5120, "voltage_v": 51.2, "capacity_ah": 100},
+        {"model": "ARENQLFP 60.8-100", "power_w": 6080, "voltage_v": 60.8, "capacity_ah": 100},
+        {"model": "ARENQLFP 60.8-150", "power_w": 9120, "voltage_v": 60.8, "capacity_ah": 150}
+      ],
+      "features": [
+        "Impact-resistant & waterproof Casing - IP67 or higher recommended",
+        "Vibration Resistance",
+        "High Discharge capability",
+        "Light Weight"
+      ]
+    }
+  },
+  {
+    "title": "E-Scooter Battery",
+    "slug": "e-scooter-battery",
+    "description": "The Arenq Series, developed by Sunlit Power Pvt. Ltd., features advanced Lithium Iron Phosphate (LiFePO4) battery technology, purpose-built for electric scooter (E-scooter) applications. Engineered for urban mobility, the Arenq Series combines high performance, long cycle life, and robust safety with key features like a compact and lightweight design, fast-charging capability, and an intelligent Battery Management System (BMS) for real-time monitoring and protection. The range includes systems from 48V to 72V.",
+    "short_description": "Compact, lightweight, and fast-charging LiFePO4 batteries purpose-built for electric scooters.",
+    "status": "active",
+    "specifications": {
+      "chemistry": "LFP (Cylindrical Cell)",
+      "cycle_life": "1500 - 2000",
+      "dod_level": "100%",
+      "working_temperature": "-20°C to +60°C",
+      "available_models": [
+        {"model": "ARENQLFP 48-30", "power_w": 1440, "voltage_v": 48, "capacity_ah": 30},
+        {"model": "ARENQLFP 60.8-24", "power_w": 1459.2, "voltage_v": 60.8, "capacity_ah": 24},
+        {"model": "ARENQLFP 60.8-30", "power_w": 1824, "voltage_v": 60.8, "capacity_ah": 30},
+        {"model": "ARENQLFP 73.6-36", "power_w": 2649.6, "voltage_v": 73.6, "capacity_ah": 36},
+        {"model": "ARENQLFP 73.6-42", "power_w": 3091.2, "voltage_v": 73.6, "capacity_ah": 42}
+      ],
+      "features": [
+        "High Safety Performance",
+        "Fast Charging",
+        "Smart Bluetooth Connectivity For Battery Monitoring",
+        "Long Life cycles",
+        "Compact Design with Ip67 Protection",
+        "Eco-Friendly",
+        "Better Thermal Stability",
+        "Passive Cell Balancing"
+      ]
+    }
+  },
+  {
+    "title": "Traction Battery (MHE)",
+    "slug": "traction-battery-mhe",
+    "description": "The Arenq Series features cutting-edge Lithium Iron Phosphate (LiFePO4) battery technology, meticulously engineered for Material Handling Equipment (MHE) such as forklifts, pallet trucks, stackers, and reach trucks. Built to deliver high performance, long cycle life, and enhanced safety, it provides a smart and sustainable power solution for operations demanding reliability. The range includes systems from 24V to 80V.",
+    "short_description": "Heavy-duty LiFePO4 traction batteries for forklifts, pallet trucks, and material handling equipment.",
+    "status": "active",
+    "specifications": {
+      "chemistry": "LFP (Prismatic Cell)",
+      "cycle_life": "2000 - 2500",
+      "dod_level": "100%",
+      "working_temperature": "-20°C to +60°C",
+      "available_models": [
+        {"model": "ARENQLFP 25.6-100", "power_w": 2560, "voltage_v": 25.6, "capacity_ah": 100},
+        {"model": "ARENQLFP 25.6-200", "power_w": 5120, "voltage_v": 25.6, "capacity_ah": 200},
+        {"model": "ARENQLFP 48-200", "power_w": 9600, "voltage_v": 48, "capacity_ah": 200},
+        {"model": "ARENQLFP 48-300", "power_w": 14400, "voltage_v": 48, "capacity_ah": 300},
+        {"model": "ARENQLFP 80-400", "power_w": 32000, "voltage_v": 80, "capacity_ah": 400}
+      ],
+      "features": [
+        "Enhanced workplace safety & sustainability",
+        "Improved efficiency and runtime",
+        "Low Weight",
+        "Consistent power delivery across charge levels",
+        "Maintenance Free Operation",
+        "Fast Charging",
+        "Bluetooth Connectivity"
+      ]
+    }
+  },
+  {
+    "title": "Stacker Battery",
+    "slug": "stacker-battery",
+    "description": "The Arenq Series features advanced Lithium Iron Phosphate (LiFePO4) battery technology, engineered specifically for Pallet Trucks. These batteries deliver superior safety, extended cycle life, fast charging capability, and high thermal stability—making them the ideal power solution for reliable, efficient, and long-lasting pallet truck operations. The range includes systems from 24V to 48V.",
+    "short_description": "Highly durable and maintenance-free LiFePO4 batteries designed specifically for Pallet Trucks and Stackers.",
+    "status": "active",
+    "specifications": {
+      "chemistry": "LFP (Cylindrical & Prismatic Cell)",
+      "cycle_life": "1500 - 2500",
+      "dod_level": "100%",
+      "working_temperature": "-20°C to +60°C",
+      "available_models": [
+        {"model": "ARENQLFP 25.6-18Ah", "power_w": 460.8, "voltage_v": 25.6, "capacity_ah": 18},
+        {"model": "ARENQLFP 25.6V-30", "power_w": 768, "voltage_v": 25.6, "capacity_ah": 30},
+        {"model": "ARENQLFP 25.6-100", "power_w": 2560, "voltage_v": 25.6, "capacity_ah": 100},
+        {"model": "ARENQLFP 48-100", "power_w": 4800, "voltage_v": 48, "capacity_ah": 100}
+      ],
+      "features": [
+        "Highly Durable",
+        "Fast Charging & High-power Output",
+        "Maintenance Free",
+        "Compact Design",
+        "Bluetooth Connectivity",
+        "Light Weight"
+      ]
+    }
+  },
+  {
+    "title": "Substation Batteries",
+    "slug": "substation-batteries",
+    "description": "Arenq offers advanced Lithium Iron Phosphate (LiFePO4) battery solutions specially engineered for power substations and switchgear backup systems. These batteries are designed to ensure uninterrupted DC power to protection relays, breakers, and automation systems—guaranteeing operational safety and grid reliability. Tested in NABL-accredited laboratories, they deliver trusted performance for substations across India. Range includes systems from 24V to 220V.",
+    "short_description": "Advanced LiFePO4 backup battery solutions for power substations and grid automation systems.",
+    "status": "active",
+    "specifications": {
+      "chemistry": "LFP (Prismatic Cell)",
+      "cycle_life": "2500 - 3000",
+      "dod_level": "100%",
+      "working_temperature": "-20°C to +60°C",
+      "available_models": [
+        {"model": "ARENQLFP 25.6-100", "power_w": 2560, "voltage_v": 25.6, "capacity_ah": 100},
+        {"model": "ARENQLFP 32-100", "power_w": 3200, "voltage_v": 32, "capacity_ah": 100},
+        {"model": "ARENQLFP 48-100", "power_w": 4800, "voltage_v": 48, "capacity_ah": 100},
+        {"model": "ARENQLFP 112-100", "power_w": 11200, "voltage_v": 112, "capacity_ah": 100},
+        {"model": "ARENQLFP 220.8-200", "power_w": 44160, "voltage_v": 220.8, "capacity_ah": 200}
+      ],
+      "features": [
+        "High Safety – No fire or explosion risk due to stable chemistry",
+        "Wide Temperature Range Works from -20°C to +60°C",
+        "Long Life – 3000+ cycles, lasting over 10-15 years",
+        "Smart BMS – Built-in protections and remote monitoring",
+        "Fast Charging – Charges quicker than lead-acid and Ni-Cd",
+        "High Efficiency – >95% round-trip energy efficiency",
+        "Deep Discharge Supports up to 100% Depth of Discharge",
+        "Compact & Lightweight Smaller footprint, easier handling"
+      ]
+    }
+  },
+  {
+    "title": "Crane Batteries",
+    "slug": "crane-batteries",
+    "description": "Arenq brings robust and reliable Lithium Iron Phosphate (LiFePO4) battery solutions specially engineered for electromagnetic crane operations. These cranes require powerful, instant, and safe DC backup to activate electromagnets used in lifting heavy ferrous loads—making Arenq the perfect battery partner for industrial crane systems. Ensuring full compliance with industry safety standards. Range includes systems from 110V to 220V.",
+    "short_description": "Robust LiFePO4 battery solutions delivering high surge currents for electromagnetic industrial cranes.",
+    "status": "active",
+    "specifications": {
+      "chemistry": "LFP (Prismatic Cell)",
+      "cycle_life": "2500 - 3000",
+      "dod_level": "100%",
+      "working_temperature": "-20°C to +60°C",
+      "available_models": [
+        {"model": "ARENQLFP 112-100", "power_w": 11200, "voltage_v": 112, "capacity_ah": 100},
+        {"model": "ARENQLFP 204.8-100", "power_w": 20480, "voltage_v": 204.8, "capacity_ah": 100},
+        {"model": "ARENQLFP 220.8-100", "power_w": 22080, "voltage_v": 220.8, "capacity_ah": 100},
+        {"model": "ARENQLFP 220.8-200", "power_w": 44160, "voltage_v": 220.8, "capacity_ah": 200}
+      ],
+      "features": [
+        "High Surge Current Capability Supports the high initial current draw required for activating electromagnets",
+        "LiFePO4 Battery Chemistry Offers better safety, longevity, and stability compared to lead-acid batteries",
+        "Long Lifecycle Up to 2500–3000 charge/discharge cycles, reducing replacement frequency",
+        "Smart BMS with CAN/RS485 Enables real-time monitoring and protection during intense load cycles",
+        "Reliable in Extreme Conditions Performs effectively in dusty, high-heat and vibration prone environments"
+      ]
+    }
+  }
+]
