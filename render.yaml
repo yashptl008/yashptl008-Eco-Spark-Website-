@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: eco-spark-energy
+    env: node
+    plan: free
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        value: https://bcvzcvzqbwmxwzzvidby.supabase.co
+      - key: NEXT_PUBLIC_SUPABASE_ANON_KEY
+        value: sb_publishable_C3J98ETS41F_-P9ZRTl3xg_2uutqq12
+      - key: SUPABASE_SERVICE_ROLE_KEY
+        sync: false
+      - key: NEXT_PUBLIC_SITE_URL
+        sync: false
