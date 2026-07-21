@@ -8,14 +8,12 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-12">
           {/* Brand Col */}
           <div className="space-y-4">
-            <Link href="/" className="flex items-center space-x-2">
-              <div className="bg-primary p-2 rounded-lg flex items-center justify-center text-white">
-                <Sparkles className="h-6 w-6" />
-              </div>
-              <div className="flex flex-col">
-                <span className="font-poppins text-lg font-bold text-white leading-none">ECO SPARK</span>
-                <span className="text-[10px] text-secondary tracking-widest font-semibold uppercase leading-none mt-1">Green Energy</span>
-              </div>
+            <Link href="/" className="flex items-center">
+              <img 
+                src="/images/logos/ecospark-logo-white.png" 
+                alt="Eco Spark Green Energy" 
+                className="h-10 sm:h-12 w-auto object-contain" 
+              />
             </Link>
             <p className="text-white/60 text-sm leading-relaxed pt-2">
               "Empowering a Cleaner Future"<br />

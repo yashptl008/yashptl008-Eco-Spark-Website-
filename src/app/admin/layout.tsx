@@ -33,9 +33,7 @@ export default async function AdminLayout({
         <div className="space-y-8">
           {/* Admin Brand */}
           <div className="flex items-center space-x-2">
-            <div className="bg-red-600 p-2 rounded-lg flex items-center justify-center text-white">
-              <ShieldCheck className="h-5 w-5" />
-            </div>
+            <img src="/images/logos/ecospark-icon-white.png" alt="Eco Spark Logo" className="h-8 w-8 object-contain bg-red-600 p-1.5 rounded-lg" />
             <div className="flex flex-col">
               <span className="font-poppins text-sm font-bold text-white leading-none">ECO SPARK</span>
               <span className="text-[10px] text-red-500 tracking-wider font-semibold uppercase leading-none mt-1">Admin Panel</span>

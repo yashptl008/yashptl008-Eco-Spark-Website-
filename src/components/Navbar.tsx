@@ -78,14 +78,12 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-2 group">
-            <div className="bg-primary p-2 rounded-lg flex items-center justify-center text-white group-hover:bg-secondary transition-colors duration-300">
-              <Sparkles className="h-6 w-6 animate-pulse" />
-            </div>
-            <div className="flex flex-col">
-              <span className="font-poppins text-lg font-bold text-primary leading-none">ECO SPARK</span>
-              <span className="text-[10px] text-secondary tracking-widest font-semibold uppercase leading-none mt-1">Green Energy</span>
-            </div>
+          <Link href="/" className="flex items-center group">
+            <img 
+              src="/images/logos/ecospark-logo-color.png" 
+              alt="Eco Spark Green Energy" 
+              className="h-10 sm:h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105" 
+            />
           </Link>
 
           {/* Desktop Nav Links */}

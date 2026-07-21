@@ -55,8 +55,8 @@ export default function AdminLoginPage() {
       <div className="max-w-md w-full bg-white border border-red-100 p-8 rounded-2xl shadow-xl space-y-8">
         {/* Header Branding */}
         <div className="text-center space-y-3">
-          <div className="mx-auto bg-red-600 w-12 h-12 rounded-xl flex items-center justify-center text-white">
-            <ShieldAlert className="h-6 w-6 animate-pulse" />
+          <div className="mx-auto bg-red-600 w-16 h-16 rounded-xl flex items-center justify-center shadow-lg">
+            <img src="/images/logos/ecospark-icon-white.png" alt="Admin Shield" className="h-10 w-10 object-contain" />
           </div>
           <h2 className="font-poppins text-2xl font-bold text-dark">
             Eco Spark Admin Portal
